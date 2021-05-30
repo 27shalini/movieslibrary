@@ -1,0 +1,70 @@
+.form-control{
+    width: 75%;
+
+}
+
+.container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl
+{
+    float: left;
+    background :  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,111,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.form-group{
+    text-align: left;
+    margin-top: 30px;
+   
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+  
+   }
+   .container, .container-fluid, .container-sm, .container-md, .container-lg, .container-xl {
+       background : linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,111,1) 35%, rgba(0,212,255,1) 100%);
+       
+   }
+
+   :root {
+       background-color : #32a88d;
+   }
+
+.btn-primary{
+    margin-top: 0px;
+    float: left;
+}
+
+form{
+    background-color: darkslategrey!important;
+    margin-bottom: 10;
+}
+
+.form-control{
+    background-color :cadetblue !important;
+    border-color :black !important;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+label{
+    font-style: italic;
+    float: center;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    font: 300px;
+    color :lightslategrey;
+    font-weight: bolder;
+    
+}
+
+.form-group{
+    margin-top: 0px;
+    padding-bottom: 10px;
+    padding-top : 0px;
+
+}
+
+.placeholder{
+    background-color: white;
+}

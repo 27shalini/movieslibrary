@@ -1,0 +1,54 @@
+App {
+  width: 550px;
+} 
+
+
+p {
+ color: palevioletred;
+ font-size: 18px;
+ font-weight: bold;
+ margin-top:40px;
+ margin-bottom:10px;
+}
+
+h1{
+ color: black;
+ text-align: center;
+  margin-top: 0px;
+  background-color: hsl(hue, saturation, lightness)!important;
+  
+}
+ 
+div{
+ text-align: center;
+
+}
+
+button{
+   margin-top:40px;
+   margin-bottom:10px;
+ }
+
+ th{
+   color: black;
+   background-color: grey;
+ }
+
+ td{
+   background-color: teal;
+ }
+
+ a{
+   color :wheat
+ }
+
+ .list-group-item {
+   border-color: black;
+   background-color: teal!important;
+  color: antiquewhite;
+  margin-bottom: 0px;
+ }
+
+ .fa{
+   color :goldenrod;
+ }
